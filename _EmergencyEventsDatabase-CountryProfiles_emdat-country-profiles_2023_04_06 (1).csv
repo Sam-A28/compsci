@@ -1,4 +1,4 @@
-Year,Country,ISO,Disaster Group,Disaster Subroup,Disaster Type,Disaster Subtype,Total Events,Total Affected,Total Deaths,"Total Damage (USD, original)","Total Damage (USD, adjusted)",CPI
+Year,Country,ISO,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Total Events,Total Affected,Total Deaths,"Total Damage (USD, original)","Total Damage (USD, adjusted)",CPI
 2010,Afghanistan,AFG,Natural,Geophysical,Earthquake,Ground movement,1,1070.0,11.0,,,"74,5094440781961"
 2010,Afghanistan,AFG,Natural,Hydrological,Flood,Riverine flood,2,45000.0,135.0,,,"74,5094440781961"
 2010,Afghanistan,AFG,Natural,Hydrological,Landslide,Avalanche,2,130.0,204.0,,,"74,5094440781961"
